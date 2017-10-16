@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  方块类.cpp
+d:\tetris-c++-gdi\喵星人方块\喵星人方块\方块类.cpp(946): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+d:\tetris-c++-gdi\喵星人方块\喵星人方块\方块类.cpp(989): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+  喵星人方块.cpp
+  正在生成代码...
+  喵星人方块.vcxproj -> D:\Tetris-C++-GDI\喵星人方块\Debug\喵星人方块.exe
